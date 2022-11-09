@@ -18,6 +18,8 @@ ohlc.columns = [
 
 print(ohlc)                
 
+print('javi que pesao')
+
 
 #df = pd.DataFrame(resp['result'][pair])
 #plt.bar(df[0], df[1])
